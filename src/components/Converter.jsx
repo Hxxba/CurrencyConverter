@@ -65,6 +65,9 @@ const Converter = () => {
       <input className='inputnumber' type='text' value={amount} onChange={handleAmountChange} />
       <div>
         <select className='dropdown' value={currency} onChange={handleCurrencyChange}>
+          <option disabled value=''>
+            Select option
+          </option>
           {currencies.map(([key, value], index) => (
             <option key={index} value={key}>
               {`${key}-${value} `}
