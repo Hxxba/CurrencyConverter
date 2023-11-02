@@ -1,0 +1,61 @@
+.boxStylee {
+  width: 550px;
+  height: auto;
+  left: 350px; 
+  margin-top: -62%;
+  margin-left: 360px;
+  background-color: rgba(171, 179, 184, 0.157);
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: rgb(146, 135, 135);
+  
+}
+
+  .exchange{
+    margin-top: 8%;
+    padding-bottom: 5%;
+    
+    
+    
+    
+  }
+  .row{
+    
+    font-weight: normal;
+  }
+  .Title {
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 10px;
+    color: brown;
+    padding-top: 4%;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+  .amountList{
+    border-bottom: 1px solid #ddd;
+
+    text-align: right;
+  }
+  .currency{
+    font-weight: bold;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+    
+  }
+  .currencynames{
+    border-bottom: 1px solid #ddd;
+  }
+  .amount{
+    text-align: right;
+    color: #0274ba;
+    border-bottom: 1px solid #ddd;
+    
+  }
+  .amountpercurrency{
+   
+    
+    color: #0274ba;
+
+  }
+  

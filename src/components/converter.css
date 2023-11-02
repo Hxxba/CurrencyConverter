@@ -1,0 +1,40 @@
+.boxStyle{
+  width: 300px;
+  height: 300px;
+  margin-top: 70px;
+  background-color: rgba(171, 179, 184, 0.157);
+  border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgb(146, 135, 135);
+}
+.boxStyle .ConverterCss{
+  color: #000000;
+  margin: 10px;
+  padding-top: 2px;
+  font-size: 20px;
+}
+.inputnumber{
+height: 40px;
+width: 200px;
+padding-left: 20px;
+padding-right: 40px;
+margin-left: 10px;
+margin-right: 1px;
+margin-top: 30px;
+color: rgb(248, 250, 249);
+background-color: #333;
+border: none;
+}
+
+.dropdown{
+  height: 40px;
+  width: 260px;
+  padding-left: 20px;
+  padding-right: 39px;
+  margin-left: 10px;
+  margin-right: 1px;
+  margin-top: 30px;
+  color: rgb(248, 250, 249);
+  background-color: #333;
+  border: none;
+  }
